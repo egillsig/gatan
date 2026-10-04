@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#fff1e5"/>
+  <g transform="translate(96 96)" stroke="#1a1a1a" stroke-width="8">
+    <rect x="0" y="0" width="320" height="320" fill="#1a1a1a"/>
+    <rect x="4" y="4" width="76" height="76" fill="#ffd23f"/>
+    <rect x="84" y="4" width="76" height="76" fill="#cce6ff"/>
+    <rect x="164" y="4" width="76" height="76" fill="#cce6ff"/>
+    <rect x="244" y="4" width="72" height="76" fill="#cce6ff"/>
+    <rect x="4" y="84" width="76" height="76" fill="#fff"/>
+    <rect x="164" y="84" width="76" height="76" fill="#fff"/>
+    <rect x="4" y="164" width="76" height="76" fill="#fff"/>
+    <rect x="84" y="164" width="76" height="76" fill="#fff"/>
+    <rect x="164" y="164" width="76" height="76" fill="#fff"/>
+    <rect x="244" y="164" width="72" height="76" fill="#fff"/>
+    <rect x="164" y="244" width="76" height="72" fill="#fff"/>
+  </g>
+  <text x="138" y="170" font-family="Helvetica, Arial, sans-serif" font-size="64" font-weight="700" text-anchor="middle" dominant-baseline="middle" fill="#1a1a1a">Þ</text>
+</svg>

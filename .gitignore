@@ -1,0 +1,4 @@
+.DS_Store
+# Source newspaper pages are not redistributed; only the extracted JSON is committed.
+puzzles_raw/
+*.pdf
