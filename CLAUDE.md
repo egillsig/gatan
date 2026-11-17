@@ -71,6 +71,10 @@ Tooling to turn the weekly Icelandic cryptic crossword from Morgunblaðið Sunnu
 - Public at https://egillsig.github.io/gatan (GitHub Pages, public repo `egillsig/gatan`) — no server; puzzles are JSON files baked into the build.
 - New puzzles ship by committing the JSON and pushing to `main` (see README.md).
 
+## Solving puzzles
+
+When asked to solve or explain a puzzle, use the `krossgata-solving` skill (`.claude/skills/krossgata-solving/`): setter conventions learned from past solves plus a BÍN-backed pattern/anagram helper. Add new conventions there whenever the user explains a clue.
+
 ## What NOT to do
 
 - Don't OCR the printed solution grid for the *current* week's puzzle — it's not printed until the following week.
